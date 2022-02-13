@@ -22,7 +22,7 @@ Experimento 5.0
 Experimento 6.0 
 Experimento 7.0 
 Master 1
-Master 6.0
+Master 7.0
 Master 2
 Master 5.0
 Master 3.0
